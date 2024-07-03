@@ -90,8 +90,6 @@ spacy-loggers==1.0.4
 srsly==2.4.6
 streamlit==1.10.0
 tensorboard==1.15.0
-tensorflow-directml==1.15.8
-tensorflow-estimator==1.15.1
 termcolor==1.1.0
 terminado==0.12.1
 testpath==0.6.0
