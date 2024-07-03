@@ -53,8 +53,6 @@ LunarCalendar==0.0.9
 Markdown==3.3.7
 MarkupSafe==2.0.1
 mistune==0.8.4
-mkl-random==1.1.1
-mkl-service==2.3.0
 murmurhash==1.0.9
 nbclient==0.5.9
 nbconvert==6.0.7
