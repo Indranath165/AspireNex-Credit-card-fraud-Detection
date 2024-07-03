@@ -96,7 +96,6 @@ testpath==0.6.0
 thinc==8.1.10
 toml==0.10.2
 toolz==0.12.0
-torch==1.8.1
 typer==0.7.0
 tzdata==2023.3
 tzlocal==4.2
